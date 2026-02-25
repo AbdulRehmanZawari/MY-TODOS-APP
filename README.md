@@ -52,4 +52,3 @@ For a deep dive into how every single line of code works, please refer to the **
 
 ---
 Developed by **ARZAWARI**
-# MY-TODOS-APP
